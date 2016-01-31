@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestHoower</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="refresh">Refresh</string>
+</resources>

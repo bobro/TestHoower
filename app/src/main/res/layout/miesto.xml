@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:id="@+id/nazov"
+        android:gravity="top"
+        android:textStyle="bold"
+        android:text="skuska2"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/vzdialenost"
+        android:layout_gravity="bottom"
+        android:gravity="right"
+        android:padding="5dp"
+        android:text="skuska1"
+        android:layout_weight="1"/>
+
+</LinearLayout>
